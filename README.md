@@ -47,3 +47,8 @@ Conditioned on: SNR, RSSI, location, time, etc.
 ## Required Skills
 Linux, Docker, Python
 
+
+## References
+
+https://github.com/samiemostafavi/autoran
+https://github.com/samiemostafavi/pr3d
