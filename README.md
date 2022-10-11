@@ -45,6 +45,7 @@ Conditioned on: SNR, RSSI, location, time, etc.
 4. Collect end-to-end delay measurements and train the model.
 5. Evaluate the model.
 
+![alt text](assets/result.png)
 
 ## Required Skills
 Linux, Docker, Python
