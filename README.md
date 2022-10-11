@@ -1,6 +1,6 @@
 # Predicting 5G Network Responsiveness with Deep Learning
 
-![alt text](assets/applications.png)
+![alt text](assets/closed-loop.png)
 
 ## Motivation
 
