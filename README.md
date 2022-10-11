@@ -1,5 +1,7 @@
 # Predicting 5G Network Responsiveness with Deep Learning
 
+![alt text](assets/diagram.png)
+
 ## Motivation
 
 Latency-critical applications:
