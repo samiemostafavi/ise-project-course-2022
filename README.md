@@ -1,6 +1,6 @@
 # Predicting 5G Network Responsiveness with Deep Learning
 
-![alt text](assets/diagram.png)
+![alt text](assets/applications.png)
 
 ## Motivation
 
@@ -24,12 +24,13 @@ End to end delay: probability density is important
 
 ## Approach
 
+![alt text](assets/diagram.png)
+
 A deep learning-based probability prediction scheme will be devised for predicting the responsiveness or the end-to-end delay.
 Conditioned on: SNR, RSSI, location, time, etc.
 
 
 ## Method
-
 
 1. A survey on networked systems end-to-end delay prediction works (10%)
 2. Propose an approach to use deep learning (10%)
